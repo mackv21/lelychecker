@@ -24,6 +24,3 @@ dependencyResolutionManagement {
         }
     }
 }
-
-rootProject.name = "LelyChecker"
-include(":app")
