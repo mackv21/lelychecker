@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/grey"
+    android:weightSum="2">
+
+    <!-- Logo in top 50% of the screen -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/lelyLogo"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/lely_logo"
+            android:contentDescription="Lely Logo"
+            android:scaleType="centerInside"
+            android:padding="16dp" />
+    </LinearLayout>
+
+    <!-- Input fields and button in bottom 50% -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <EditText
+            android:id="@+id/editTextTechnicianName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Technician Name"
+            android:inputType="textPersonName"
+            android:background="@color/white"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp" />
+
+        <EditText
+            android:id="@+id/editTextServiceCenter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Service Center"
+            android:inputType="text"
+            android:background="@color/white"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp" />
+
+        <EditText
+            android:id="@+id/editTextDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Select Date"
+            android:inputType="none"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:background="@color/white"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp" />
+
+        <Button
+            android:id="@+id/buttonNext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Next"
+            android:background="@color/red"
+            android:textColor="@color/white"
+            android:padding="12dp" />
+    </LinearLayout>
+</LinearLayout>

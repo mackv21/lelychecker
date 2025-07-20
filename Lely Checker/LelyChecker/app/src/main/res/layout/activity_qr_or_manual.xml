@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/grey"
+    android:weightSum="100">
+
+    <!-- Clickable ImageView in top 80% of the screen -->
+    <ImageView
+        android:id="@+id/imageViewScanQR"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="80"
+        android:src="@drawable/scan_qr_code_btn"
+        android:contentDescription="Scan QR Code"
+        android:scaleType="centerInside"
+        android:padding="16dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="?android:attr/selectableItemBackground" />
+
+    <!-- Manual Input button at the bottom -->
+    <Button
+        android:id="@+id/buttonManual"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="20"
+        android:text="Enter Data Manually"
+        android:background="@color/red"
+        android:textColor="@color/white"
+        android:padding="12dp"
+        android:layout_marginTop="16dp" />
+</LinearLayout>

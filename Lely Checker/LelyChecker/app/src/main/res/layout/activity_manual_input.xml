@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <EditText
+            android:id="@+id/editTextCustomerName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Customer Name"
+            android:inputType="textPersonName"
+            android:background="@color/white"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp" />
+
+        <EditText
+            android:id="@+id/editTextFarmName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Farm Name"
+            android:inputType="text"
+            android:background="@color/white"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp" />
+
+        <Spinner
+            android:id="@+id/spinnerMachineType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp" />
+
+        <EditText
+            android:id="@+id/editTextMachineSerial"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Machine Serial"
+            android:inputType="text"
+            android:background="@color/white"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp" />
+
+        <EditText
+            android:id="@+id/editTextMachineLDN"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Machine LDN"
+            android:inputType="text"
+            android:background="@color/white"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp" />
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="2"
+            android:rowCount="5"
+            android:layout_marginBottom="16dp">
+
+            <CheckBox
+                android:id="@+id/checkBoxAirCompressor"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:text="Air Compressor"
+                android:textColor="@color/white"
+                android:buttonTint="@color/white"
+                android:padding="8dp"
+                android:layout_margin="4dp" />
+
+            <CheckBox
+                android:id="@+id/checkBoxAirbuffer"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:text="Airbuffer"
+                android:textColor="@color/white"
+                android:buttonTint="@color/white"
+                android:padding="8dp"
+                android:layout_margin="4dp" />
+
+            <CheckBox
+                android:id="@+id/checkBoxLubricator"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:text="Lubricator"
+                android:textColor="@color/white"
+                android:buttonTint="@color/white"
+                android:padding="8dp"
+                android:layout_margin="4dp" />
+
+            <CheckBox
+                android:id="@+id/checkBoxM4Use"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:text="M4Use"
+                android:textColor="@color/white"
+                android:buttonTint="@color/white"
+                android:padding="8dp"
+                android:layout_margin="4dp" />
+
+            <CheckBox
+                android:id="@+id/checkBoxMeteor"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:text="Meteor"
+                android:textColor="@color/white"
+                android:buttonTint="@color/white"
+                android:padding="8dp"
+                android:layout_margin="4dp" />
+
+            <CheckBox
+                android:id="@+id/checkBoxMQCC"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:text="MQC-C"
+                android:textColor="@color/white"
+                android:buttonTint="@color/white"
+                android:padding="8dp"
+                android:layout_margin="4dp" />
+
+            <CheckBox
+                android:id="@+id/checkBoxPura"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:text="Pura"
+                android:textColor="@color/white"
+                android:buttonTint="@color/white"
+                android:padding="8dp"
+                android:layout_margin="4dp" />
+
+            <CheckBox
+                android:id="@+id/checkBoxSingleFilter"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:text="Single Filter"
+                android:textColor="@color/white"
+                android:buttonTint="@color/white"
+                android:padding="8dp"
+                android:layout_margin="4dp" />
+
+            <CheckBox
+                android:id="@+id/checkBoxTwinFilter"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:text="Twin Filter"
+                android:textColor="@color/white"
+                android:buttonTint="@color/white"
+                android:padding="8dp"
+                android:layout_margin="4dp" />
+
+            <CheckBox
+                android:id="@+id/checkBoxSleeves"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:text="Sleeves"
+                android:textColor="@color/white"
+                android:buttonTint="@color/white"
+                android:padding="8dp"
+                android:layout_margin="4dp" />
+        </GridLayout>
+
+        <Button
+            android:id="@+id/buttonNext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Next"
+            android:background="@color/red"
+            android:textColor="@color/white"
+            android:padding="12dp" />
+    </LinearLayout>
+</ScrollView>

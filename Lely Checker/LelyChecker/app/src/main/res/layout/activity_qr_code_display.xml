@@ -1,0 +1,19 @@
+<!-- res/layout/activity_qr_code_display.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageViewQRCode"
+        android:layout_width="300dp"
+        android:layout_height="300dp"/>
+
+    <Button
+        android:id="@+id/buttonPrint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Print QR Code"/>
+</LinearLayout>

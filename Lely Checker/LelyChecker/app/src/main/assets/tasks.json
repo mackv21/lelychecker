@@ -1,0 +1,2713 @@
+[
+  {
+    "taskOrder": 1.0,
+    "machine": "A3CU,A4CU,A5CU",
+    "lelyTaskNumber": 407172.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ3MF9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ3Ml9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MDcxNzIueG1sX2VuLVVTIl0sIm5uIjoyMzkxNTIsInRzIjoxNzQ5Mjg4NDUwODkzfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine Robot Performance",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 2.0,
+    "machine": "A3RU",
+    "lelyTaskNumber": NaN,
+    "guide": NaN,
+    "task": "Start a cluster cleaning",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 3.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1347704.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ2Nl9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEzNDc3MDQueG1sX2VuLVVTIl0sIm5uIjo4Mjc4MiwidHMiOjE3NDkyODg3MDU2Nzd9?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Switch off the Pura",
+    "option": "Pura",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 3.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 422193.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000422193",
+    "task": "Switch off the Pura",
+    "option": "Pura",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 3.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 48179.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#48179",
+    "task": "Descale and Switch off the PURA",
+    "option": "Pura",
+    "services": [
+      "B",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 4.0,
+    "machine": "A3RU",
+    "lelyTaskNumber": 43230.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#43230",
+    "task": "Examine the reports on the X-Link / E- Link",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 5.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1187317.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzNF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDExODczMTcueG1sX2VuLVVTIl0sIm5uIjo0NTU4NDksInRzIjoxNzQ5Mjg4ODE2NTEwfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the operation of the vacuum valve",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 5.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 900426.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDA0MTU2OV9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDA0MTU2OV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDA0MTYxNV9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE0XzAwMDA5MDA0MjYueG1sX2VuLVVTIl0sIm5uIjo1NDg3NTcsInRzIjoxNzQ5MzAwMDEzNDg1fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OCJdLCJubiI6NjI1LCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the operation of the vacuum valve",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 6.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 403966.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzNF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MDM5NjYueG1sX2VuLVVTIl0sIm5uIjo0NTc3MzMsInRzIjoxNzQ5Mjg4OTQ3Mzk3fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the Sanitary Trap",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 6.1,
+    "machine": "A5RU",
+    "lelyTaskNumber": 403966.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzNF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MDM5NjYueG1sX2VuLVVTIl0sIm5uIjo0NTc3MzMsInRzIjoxNzQ5Mjk0NzI0MzI4fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace one way valve in sanitary trap",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "5.1003.0373.0"
+  },
+  {
+    "taskOrder": 7.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 403982.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMV9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MDM5ODIueG1sX2VuLVVTIl0sIm5uIjozMTUzNjIsInRzIjoxNzQ5Mjg5MDIyOTA0fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Functional test of the sampling cylinder",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 7.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 33043.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#33043",
+    "task": "Functional test of the sampling cylinder",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 7.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 896603.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000896603",
+    "task": "Functional test of the sampling cylinder",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 8.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1187023.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ2M19MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDExODcwMjMueG1sX2VuLVVTIl0sIm5uIjo2MTIzMiwidHMiOjE3NDkyODkxMDQ2MzF9?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace the Flow Sensor Turbine on the RU",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": "9.1183.0077.0"
+  },
+  {
+    "taskOrder": 9.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 403983.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMF9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ4M19MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MDM5ODMueG1sX2VuLVVTIl0sIm5uIjoyODcyNjIsInRzIjoxNzQ5Mjg5MjQxMDE5fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Test the milk weigh system",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 9.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 888656.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDA0MTU2OV9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDA0MTU2OV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDA0MTU5OF9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDA0MTU3OF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE0XzAwMDA4ODg2NTYueG1sX2VuLVVTIl0sIm5uIjozODk2MzQsInRzIjoxNzQ5NTg4NzMxMzEyfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OCJdLCJubiI6NjI1LCJ0cyI6MTc0OTU4ODUwMzk0Mn0",
+    "task": "Test the milk weigh system",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 9.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": NaN,
+    "guide": NaN,
+    "task": "Do the milk meter maintenance",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "5.9000.1315.0"
+  },
+  {
+    "taskOrder": 10.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1143208.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyOV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ3M19MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ3NV9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDExNDMyMDgueG1sX2VuLVVTIl0sIm5uIjoyNDg3NDEsInRzIjoxNzQ5Mjg5NTUxMDAxfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine and clean the blow empty valve and seals",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 10.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 883572.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000883572",
+    "task": "Examine and clean the blow empty valve and seals",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 10.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": NaN,
+    "guide": NaN,
+    "task": "Examine and clean the blow empty valve",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 10.3,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1141736.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyOV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ3M19MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ3NV9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDExNDE3MzYueG1sX2VuLVVTIl0sIm5uIjoyNDc3OTksInRzIjoxNzQ5NTg4OTY1ODMyfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0OTU4ODk2NTgzMn0&filterState=true",
+    "task": "Replace the blow empty ball or valve",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": "5.1004.0920.0, \n5.1003.0373.0"
+  },
+  {
+    "taskOrder": 11.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 404043.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyOV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ3M19MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ3N19MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MDQwNDMueG1sX2VuLVVTIl0sIm5uIjoyNTc2MDksInRzIjoxNzQ5Mjg5NjM4MjMyfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine 3-way valves robot unit",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 11.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 883567.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000883567",
+    "task": "Examine 3-way valves robot unit",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 11.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": NaN,
+    "guide": NaN,
+    "task": "Examine the robot 3-way valves",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 12.0,
+    "machine": "A3RU,A5RU",
+    "lelyTaskNumber": 418581.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyN19MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MTg1ODEueG1sX2VuLVVTIl0sIm5uIjoyMjIwNDgsInRzIjoxNzQ5Mjg5NzEyOTE5fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the feeding system",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 12.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 824514.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDA0MTU2OV9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDA0MTU2OV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDA0MTU4OV9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE0XzAwMDA4MjQ1MTQueG1sX2VuLVVTIl0sIm5uIjozMzU1MDgsInRzIjoxNzQ5NDk1MDkzNDc1fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OCJdLCJubiI6NjI1LCJ0cyI6MTc0ODg3ODc2ODgxMn0&filterState=true",
+    "task": "Examine the feeding system",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 13.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1079150.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ0NF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEwNzkxNTAueG1sX2VuLVVTIl0sIm5uIjoyMTUyMzksInRzIjoxNzQ5Mjg5NzgxMTMwfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Clean the APSU",
+    "option": "APSU",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 14.0,
+    "machine": "A4RU",
+    "lelyTaskNumber": 889182.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000889182",
+    "task": "Do the revision of the milkpump cartridge",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": "5.1004.1546.0"
+  },
+  {
+    "taskOrder": 15.0,
+    "machine": "A4RU,A5RU",
+    "lelyTaskNumber": 1001582.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMV9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEwMDE1ODIueG1sX2VuLVVTIl0sIm5uIjozMTc1NjAsInRzIjoxNzQ5Mjk0MTE1NjI1fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the Oil level of the Oil Buffer exit gate",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 16.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1336900.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMF9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ4Nl9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEzMzY5MDAueG1sX2VuLVVTIl0sIm5uIjozMDkzNTYsInRzIjoxNzQ5Mjg5ODM1NDU3fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine MQC-C",
+    "option": "MQC-C",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 16.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 825645.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000825645",
+    "task": "Examine MQC-C",
+    "option": "MQC-C",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 16.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 59669.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#59669",
+    "task": "Examine MQC-C",
+    "option": "MQC-C",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 16.3,
+    "machine": "A5RU",
+    "lelyTaskNumber": 769355.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMF9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ4Nl9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA3NjkzNTUueG1sX2VuLVVTIl0sIm5uIjozMDExOTIsInRzIjoxNzQ5MjkwMDQ5Njg2fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace the peristaltic pump tube of the MQC-C",
+    "option": "MQC-C",
+    "services": [
+      "A"
+    ],
+    "info": "5.1005.4108.0"
+  },
+  {
+    "taskOrder": 16.4,
+    "machine": "A4RU",
+    "lelyTaskNumber": 825647.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000825647",
+    "task": "Replace the peristaltic pump tube of the MQC-C",
+    "option": "MQC-C",
+    "services": [
+      "A"
+    ],
+    "info": "5.1005.4108.1"
+  },
+  {
+    "taskOrder": 16.5,
+    "machine": "A3RU",
+    "lelyTaskNumber": 97338.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#97338",
+    "task": "Replace the peristaltic pump tube of the MQC-C",
+    "option": "MQC-C",
+    "services": [
+      "B",
+      "C",
+      "D"
+    ],
+    "info": "5.1004.6062.0"
+  },
+  {
+    "taskOrder": 16.6,
+    "machine": ",A4RU,A5RU",
+    "lelyTaskNumber": 768460.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMF9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ4Nl9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA3Njg0NjAueG1sX2VuLVVTIl0sIm5uIjozMDA4NzgsInRzIjoxNzQ5Mjk0MDc3NTM0fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace tubes MQC-C",
+    "option": "MQC-C",
+    "services": [
+      "B"
+    ],
+    "info": "5.1005.3697.0"
+  },
+  {
+    "taskOrder": 16.7,
+    "machine": "A3RU",
+    "lelyTaskNumber": 97341.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#97341",
+    "task": "Replace tubes MQC-C",
+    "option": "MQC-C",
+    "services": [
+      "B"
+    ],
+    "info": "5.1005.3697.1"
+  },
+  {
+    "taskOrder": 17.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1187027.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMF9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ4M19MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDExODcwMjcueG1sX2VuLVVTIl0sIm5uIjoyODY2MzQsInRzIjoxNzQ5MjkwMTM4NDUzfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the 6-fold tube",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 17.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 83451.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#83451",
+    "task": "Examine the 6-fold tube",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 17.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 420114.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000420114",
+    "task": "Examine the 6-fold tube",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 18.0,
+    "machine": "A3RU",
+    "lelyTaskNumber": 48191.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#48191",
+    "task": "Examine the Cables and Tubes under the arm cover",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 19.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 421326.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ5MF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MjEzMjYueG1sX2VuLVVTIl0sIm5uIjozNjgyOTgsInRzIjoxNzQ5MjkwMTk4MDY5fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the pre-milk device",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 19.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 890637.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000890637",
+    "task": "Examine the pre-milk device",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 19.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 28466.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#28466",
+    "task": "Examine the pre-milk Device",
+    "option": NaN,
+    "services": [
+      "A",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 19.3,
+    "machine": "A5RU",
+    "lelyTaskNumber": 421328.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ5MF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MjEzMjgueG1sX2VuLVVTIl0sIm5uIjozNjg2MTIsInRzIjoxNzQ5Mjk0MDA0NzIyfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace pre-milk rings and plugs",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": "5.1004.5151.0"
+  },
+  {
+    "taskOrder": 19.4,
+    "machine": "A4RU",
+    "lelyTaskNumber": 890638.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000890638",
+    "task": "Replace pre-milk rings and plugs",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": "5.1004.5151.1"
+  },
+  {
+    "taskOrder": 19.5,
+    "machine": "A3RU",
+    "lelyTaskNumber": 90229.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#90229",
+    "task": "Replace pre-milk device rings and plugs",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": "5.9000.1312.0"
+  },
+  {
+    "taskOrder": 20.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1106465.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ5MV9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDExMDY0NjUueG1sX2VuLVVTIl0sIm5uIjozNzY1MjgsInRzIjoxNzQ5MjkwMzM3NjQ3fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace the shut-off sleeves",
+    "option": "Sleeves",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": "5.1005.5295.0"
+  },
+  {
+    "taskOrder": 20.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 1106573.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0001106573",
+    "task": "Replace the shut-off sleeves",
+    "option": "Sleeves",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": "5.1005.5295.1"
+  },
+  {
+    "taskOrder": 20.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 26025.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#26025",
+    "task": "Replace the 4effect Sleeves",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": "5.9000.1318.0"
+  },
+  {
+    "taskOrder": 21.0,
+    "machine": "A3RU",
+    "lelyTaskNumber": 26024.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#26024",
+    "task": "Replace the 4effect wear parts",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": "5.9000.1321.0"
+  },
+  {
+    "taskOrder": 22.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1296928.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ5MV9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEyOTY5MjgueG1sX2VuLVVTIl0sIm5uIjozODA5MjQsInRzIjoxNzQ5MjkwNDI3OTczfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine and lubricate the valves of shut-off device",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 22.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 1371462.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0001371462",
+    "task": "Examine and lubricate the valves of shut-off device",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 23.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1103799.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDA0MjM1OF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDExMDM3OTkueG1sX2VuLVVTIl0sIm5uIjozNDc0NjcsInRzIjoxNzQ5MjkwNjcwOTczfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the pulsator filters",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 23.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 409280.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000409280",
+    "task": "Examine the pulsator filters",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 24.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1103317.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDA0MjM1OF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDExMDMzMTcueG1sX2VuLVVTIl0sIm5uIjozNDgwOTUsInRzIjoxNzQ5Mjk5MTc3NjY3fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace pulsator Unit type-2",
+    "option": NaN,
+    "services": [
+      "D"
+    ],
+    "info": "5.1004.6801.0\n5.1104.6801.0"
+  },
+  {
+    "taskOrder": 24.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 412510.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000412510",
+    "task": "Replace pulsator Unit type-2",
+    "option": NaN,
+    "services": [
+      "D"
+    ],
+    "info": "5.1004.6801.0\n5.1104.6801.0"
+  },
+  {
+    "taskOrder": 24.3,
+    "machine": "A4RU",
+    "lelyTaskNumber": 412368.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000412368",
+    "task": "Replace the 4Effect plungers (Pulsator Unit type-1)",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": "9.1138.0916.0"
+  },
+  {
+    "taskOrder": 24.2,
+    "machine": "A5RU",
+    "lelyTaskNumber": 412369.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDA0MjM1OF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MTIzNjkueG1sX2VuLVVTIl0sIm5uIjozNDUyNDYsInRzIjoxNzQ5Mjk0MTg2OTIxfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace the 4Effect plungers (Pulsator Unit type-2)",
+    "option": NaN,
+    "services": [
+      "B",
+      "C"
+    ],
+    "info": "5.1004.6255.0"
+  },
+  {
+    "taskOrder": 24.4,
+    "machine": "A4RU",
+    "lelyTaskNumber": 883659.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000883659883659",
+    "task": "Replace the 4Effect plungers (Pulsator Unit type-2)",
+    "option": NaN,
+    "services": [
+      "B",
+      "C"
+    ],
+    "info": "5.1004.6255.1"
+  },
+  {
+    "taskOrder": 24.5,
+    "machine": "A5RU",
+    "lelyTaskNumber": 403965.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?model=Lely%20Astronaut%20A5&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000403965",
+    "task": "Replace the 4effect Air Filter",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": "9.1138.0131.2"
+  },
+  {
+    "taskOrder": 24.7,
+    "machine": "A3RU",
+    "lelyTaskNumber": 26027.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#26027",
+    "task": "Replace the 4effect Air Filter",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": "9.1138.0131.3"
+  },
+  {
+    "taskOrder": 24.6,
+    "machine": "A4RU",
+    "lelyTaskNumber": 883658.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000883658",
+    "task": "Replace the 4effect Air Filter",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": "9.1138.0131.3"
+  },
+  {
+    "taskOrder": 25.0,
+    "machine": "A4RU",
+    "lelyTaskNumber": 900427.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000900427",
+    "task": "Examine the vacuum container",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 25.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 403967.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000403967",
+    "task": "Replace the non-return valve of the vacuum container",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "5.1003.0373.0"
+  },
+  {
+    "taskOrder": 26.0,
+    "machine": "A4RU,A5RU",
+    "lelyTaskNumber": 1335833.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ2N19MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEzMzU4MzMueG1sX2VuLVVTIl0sIm5uIjoxMTI0MjgsInRzIjoxNzQ5MjkwNzM2MTc5fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the cleaning brushes and cleaning arm",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 26.1,
+    "machine": "A3RU",
+    "lelyTaskNumber": 88085.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#88085",
+    "task": "Examine the cleaning brushes and cleaning arm",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 26.2,
+    "machine": "A4RU",
+    "lelyTaskNumber": 899249.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000899249",
+    "task": "Lubricate the pneumatic motor of the udder cleaning unit",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 26.3,
+    "machine": "A3RU",
+    "lelyTaskNumber": 27625.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#27625",
+    "task": "Lubricate the pneumatic motor of the udder cleaning unit",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 27.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1168167.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ5Ml9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDExNjgxNjcueG1sX2VuLVVTIl0sIm5uIjo0MDIwNTYsInRzIjoxNzQ5MjkwODI1MTYxfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the Teat Cup Liners",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 27.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 79914.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#79914",
+    "task": "Examine the Teat Cup Liners",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 27.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 898671.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000898671",
+    "task": "Examine the Teat Cup Liners",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 28.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1282476.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ5Ml9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEyODI0NzYueG1sX2VuLVVTIl0sIm5uIjo0MDMwMTUsInRzIjoxNzQ5MjkwODY0ODAyfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine Cords and Cups",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 28.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 898215.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000898215",
+    "task": "Examine Cords and Cups",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 28.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 40634.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#40634",
+    "task": "Examine Cords and Cups",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 29.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1282539.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ5Ml9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEyODI1MzkueG1sX2VuLVVTIl0sIm5uIjo0MDU1MjcsInRzIjoxNzQ5MjkwOTI2NTM4fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the twin tubes",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 29.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 898675.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000898675",
+    "task": "Examine the twin tubes",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 29.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 79909.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#79909",
+    "task": "Examine the twin tubes",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 30.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 486871.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMl9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0ODY4NzEueG1sX2VuLVVTIl0sIm5uIjozNTY1OTYsInRzIjoxNzQ5MjkwOTkzMzkwfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the toothed belt",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 30.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 424781.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000424781",
+    "task": "Examine the toothed belt",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 31.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1294965.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMl9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEyOTQ5NjIueG1sX2VuLVVTIl0sIm5uIjozNTM3NDcsInRzIjoxNzQ5MjkxMTg2OTA0fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0OTI5MTE4NjkwNH0",
+    "task": "Clean and lubricate cylinder rods",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": "9.1189.0098.0"
+  },
+  {
+    "taskOrder": 31.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 40648.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#40648",
+    "task": "Clean and lubricate cylinder rods",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": "9.1189.0098.1"
+  },
+  {
+    "taskOrder": 31.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 890933.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000890933",
+    "task": "Clean and lubricate cylinder rods",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": "9.1189.0098.1"
+  },
+  {
+    "taskOrder": 31.3,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1335454.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMl9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEzMzU0NTQueG1sX2VuLVVTIl0sIm5uIjozNTUwMjYsInRzIjoxNzQ5MjkxMjg0MTIxfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Grease the ball bearing of the arm actuators",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 31.4,
+    "machine": "A4RU",
+    "lelyTaskNumber": 1371461.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0001371461",
+    "task": "Grease the ball bearing of the arm actuators",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 32.0,
+    "machine": "A4RU",
+    "lelyTaskNumber": NaN,
+    "guide": NaN,
+    "task": "Examine and fill the oil buffer of the lubricator",
+    "option": "Lubricator",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": "9.1171.0119.0"
+  },
+  {
+    "taskOrder": 33.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1103801.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDA0MjM1OF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDExMDM4MDEueG1sX2VuLVVTIl0sIm5uIjozNDg3MjMsInRzIjoxNzQ5MjkxMzMzNzQ3fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Measure the vacuum level and pulsation curve",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 33.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 107207.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#107207",
+    "task": "Measure the vacuum level and pulsation curve",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 33.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 409268.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000409268",
+    "task": "Measure the vacuum level and pulsation curve",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 34.0,
+    "machine": "A3RU,A5RU",
+    "lelyTaskNumber": 1020264.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#107207",
+    "task": "Examine the robot arm",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 34.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 1158997.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0001158997",
+    "task": "Examine the robot arm",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 35.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1187247.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ2NF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDExODcyNDcueG1sX2VuLVVTIl0sIm5uIjo3MDM5OSwidHMiOjE3NDkyOTIwMTU2NzR9?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the jetters",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 35.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 417324.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000417324",
+    "task": "Examine the jetters",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 35.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 27264.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#27264",
+    "task": "Examine the jetters",
+    "option": NaN,
+    "services": [
+      "A",
+      "B"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 35.3,
+    "machine": "A5RU",
+    "lelyTaskNumber": 406286.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ2NF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MDYyODYueG1sX2VuLVVTIl0sIm5uIjo2OTE0MywidHMiOjE3NDkyOTQ4MzkyOTB9?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace the jetter caps",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "5.9000.1317.0"
+  },
+  {
+    "taskOrder": 35.4,
+    "machine": "A4RU",
+    "lelyTaskNumber": 885245.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDA0MTU2OV9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDA0MTU2OV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDA0MTYxMF9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDA0MTYxOF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE0XzAwMDA4ODUyNDUueG1sX2VuLVVTIl0sIm5uIjoxNzE1MDUsInRzIjoxNzQ5NDk1ODA1NzU5fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OCJdLCJubiI6NjI1LCJ0cyI6MTc0ODg3ODc2ODgxMn0&filterState=true",
+    "task": "Replace the jetter caps",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "5.9000.1317.1"
+  },
+  {
+    "taskOrder": 35.5,
+    "machine": "A3RU",
+    "lelyTaskNumber": 27601.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#27601",
+    "task": "Replace the jetter caps",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "5.9000.1316.0"
+  },
+  {
+    "taskOrder": 36.0,
+    "machine": "A3RU,A4RU,A5RU",
+    "lelyTaskNumber": NaN,
+    "guide": NaN,
+    "task": "Examine the PURA for leakage",
+    "option": "Pura",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 36.1,
+    "machine": "A3RU",
+    "lelyTaskNumber": NaN,
+    "guide": NaN,
+    "task": "PURA Replace parts of service kit",
+    "option": "Pura",
+    "services": [
+      "B"
+    ],
+    "info": "9.1189.0086.2"
+  },
+  {
+    "taskOrder": 36.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": NaN,
+    "guide": NaN,
+    "task": "PURA Replace level sensor",
+    "option": "Pura",
+    "services": [
+      "D"
+    ],
+    "info": "9.1186.0300.2"
+  },
+  {
+    "taskOrder": 36.3,
+    "machine": "A5RU",
+    "lelyTaskNumber": 666357.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ2Nl9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA2NjYzNTcueG1sX2VuLVVTIl0sIm5uIjo4ODc3MSwidHMiOjE3NDkyOTIwODM3NDB9?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Maintain the Pura",
+    "option": "Pura",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": "5.1004.5088.0, \n5.1005.4066.0, \n5.1005.5632.0"
+  },
+  {
+    "taskOrder": 36.3,
+    "machine": "A4RU",
+    "lelyTaskNumber": 890639.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000890639",
+    "task": "Maintain the Pura",
+    "option": "Pura",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": "5.1004.5088.0, \n5.1005.4066.0, \n5.1005.5632.0"
+  },
+  {
+    "taskOrder": 37.0,
+    "machine": "A3RU,A5RU",
+    "lelyTaskNumber": 1362199.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEzNjIxOTkueG1sX2VuLVVTIl0sIm5uIjoxMDY0LCJ0cyI6MTc0OTI5MjEzNzEyNn0?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the gates, gate guard and clean the exit gate cylinder",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 37.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 1335514.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0001335514",
+    "task": "Examine the gates, gate guard and clean the exit gate cylinder",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 37.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 90248.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#90248",
+    "task": "Examine the bolt of the gates",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 38.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 404166.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNF9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ2MF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MDQxNjYueG1sX2VuLVVTIl0sIm5uIjo2NDQ5LCJ0cyI6MTc0OTI5Mjc3NTEyMX0?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the weigh floor",
+    "option": "Weigh Floor",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 38.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 90331.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#90331",
+    "task": "Examine the weigh floor",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 38.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 888484.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000888484",
+    "task": "Examine the weigh floor",
+    "option": "Weigh Floor",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 39.0,
+    "machine": "A4RU,A5RU",
+    "lelyTaskNumber": NaN,
+    "guide": "https://lely.rightanswers.com/portal/app/portlets/results/viewsolution.jsp?solutionid=161012170337323&page=1&position=3&q=meteor%20maintenance#",
+    "task": "Examine and maintain the Meteor",
+    "option": "Meteor",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 39.1,
+    "machine": "A3RU",
+    "lelyTaskNumber": NaN,
+    "guide": "https://lely.rightanswers.com/portal/app/portlets/results/viewsolution.jsp?solutionid=161012170337323&page=1&position=3&q=meteor%20maintenance#",
+    "task": "Examine the Meteor",
+    "option": "Meteor",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 39.3,
+    "machine": "A4RU,A5RU",
+    "lelyTaskNumber": NaN,
+    "guide": "https://lely.rightanswers.com/portal/app/portlets/results/viewsolution.jsp?solutionid=161012170337323&page=1&position=3&q=meteor%20maintenance#",
+    "task": "Replace the PD15 care pump exhaust regulator on the Meteor",
+    "option": "Meteor",
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "9.1138.0731.0"
+  },
+  {
+    "taskOrder": 39.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": NaN,
+    "guide": "https://lely.rightanswers.com/portal/app/portlets/results/viewsolution.jsp?solutionid=161012170337323&page=1&position=3&q=meteor%20maintenance#",
+    "task": "Maintain the Meteor",
+    "option": "Meteor",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": "9.1129.0158.0,\n5.1541.0010.0"
+  },
+  {
+    "taskOrder": 39.4,
+    "machine": "A4RU,A5RU",
+    "lelyTaskNumber": NaN,
+    "guide": "https://lely.rightanswers.com/portal/app/portlets/results/viewsolution.jsp?solutionid=161012170337323&page=1&position=3&q=meteor%20maintenance#",
+    "task": "Replace Soap & Care suction lance filter on the Meteor",
+    "option": "Meteor",
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "9.1138.0657.0"
+  },
+  {
+    "taskOrder": 39.5,
+    "machine": "A4RU,A5RU",
+    "lelyTaskNumber": NaN,
+    "guide": "https://lely.rightanswers.com/portal/app/portlets/results/viewsolution.jsp?solutionid=161012170337323&page=1&position=3&q=meteor%20maintenance#",
+    "task": "Replace nozzles and reset spray pattern on the Meteor",
+    "option": "Meteor",
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "5.1541.2170.0\n9.1185.1233.0"
+  },
+  {
+    "taskOrder": 40.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1310692.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ5Ml9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEzMTA2OTIueG1sX2VuLVVTIl0sIm5uIjozODY5NDUsInRzIjoxNzQ5MjkyOTI3MDA0fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Do the teat cup calibration procedure",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 40.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 20817.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#20817",
+    "task": "Do the teat cup calibration procedure",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 40.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 898119.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000898119",
+    "task": "Do the teat cup calibration procedure",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 41.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1335376.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ0M19MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEzMzUzMzkueG1sX2VuLVVTIl0sIm5uIjoyMDM4OTcsInRzIjoxNzQ5Mjk0MzgyNTQwfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0OTI5NDM4MjU0MH0",
+    "task": "Test the grounding of the robot unit",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 41.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 30902.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#30902",
+    "task": "Test the grounding of the robot unit",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 41.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 421298.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000421298",
+    "task": "Test the grounding of the robot unit",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 42.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1082883.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ0NF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEwODI4ODMueG1sX2VuLVVTIl0sIm5uIjoyMTIwOTksInRzIjoxNzQ5Mjk0NDYzNDUyfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the capacity of the battery (RU)",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 42.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 890619.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000890619",
+    "task": "Examine the capacity of the battery (RU)",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 43.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 403964.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ5N19MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MDM5NjQueG1sX2VuLVVTIl0sIm5uIjo0MjE3NTYsInRzIjoxNzQ5MjkyOTYyNTg1fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Test the emergency stop buttons",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 43.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 883559.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000883559",
+    "task": "Test the emergency stop buttons",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 44.0,
+    "machine": "A3RU",
+    "lelyTaskNumber": 95899.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#95899",
+    "task": "Test the pressure switch",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 45.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 487027.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyOV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ3NF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0ODcwMjcueG1sX2VuLVVTIl0sIm5uIjoyNjc3NTYsInRzIjoxNzQ5Mjk4ODQ1MzY1fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace seal in milkpump",
+    "option": NaN,
+    "services": [
+      "D"
+    ],
+    "info": "9.1185.0249.1 "
+  },
+  {
+    "taskOrder": 45.1,
+    "machine": "A3RU",
+    "lelyTaskNumber": 25956.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#25956",
+    "task": "Replace the milk pump seals",
+    "option": NaN,
+    "services": [
+      "D"
+    ],
+    "info": "9.1185.0249.1"
+  },
+  {
+    "taskOrder": 46.0,
+    "machine": "A3RU",
+    "lelyTaskNumber": 25959.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#25959",
+    "task": "Replace the non-return valve of the milk pump",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": "5.1003.0373.0"
+  },
+  {
+    "taskOrder": 47.0,
+    "machine": "A3RU",
+    "lelyTaskNumber": NaN,
+    "guide": NaN,
+    "task": "Replace the wear parts of the brush-dis dosing cup",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": "5.9000.1319.0"
+  },
+  {
+    "taskOrder": 48.0,
+    "machine": "A5CU",
+    "lelyTaskNumber": 228768.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ0NF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDAyMjg3NjgueG1sX2VuLVVTIl0sIm5uIjoyMTYxODEsInRzIjoxNzQ5MjkzMTAxOTI4fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Test the save-life switch",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 48.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 83410.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#83410",
+    "task": "Test the save-life switch",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 48.1,
+    "machine": "A4CU",
+    "lelyTaskNumber": 404789.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000404789",
+    "task": "Test the save-life switch",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 49.0,
+    "machine": "A4CU,A5CU",
+    "lelyTaskNumber": 1335527.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ0M19MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEzMzU1MjcueG1sX2VuLVVTIl0sIm5uIjoyMDE5OTAsInRzIjoxNzQ5Mjk0NTI5OTE4fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Test the grounding of the Central Unit",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 50.0,
+    "machine": "A5CU",
+    "lelyTaskNumber": 403630.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ0NF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MDM2MzAueG1sX2VuLVVTIl0sIm5uIjoyMTY4MDksInRzIjoxNzQ5Mjk0NTY2Njg0fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the capacity of the battery (CU)",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 50.1,
+    "machine": "A4CU",
+    "lelyTaskNumber": 890620.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000890620",
+    "task": "Examine the capacity of the battery (CU)",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 51.0,
+    "machine": "A5CU",
+    "lelyTaskNumber": 403628.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ2MV9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MDM2MjgueG1sX2VuLVVTIl0sIm5uIjo0OTIwMSwidHMiOjE3NDkyOTMwMzIzNzZ9?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the use of the correct chemicals",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 51.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 33039.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#33039",
+    "task": "Examine the use of the correct chemicals",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 51.1,
+    "machine": "A4CU",
+    "lelyTaskNumber": 883753.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000883753",
+    "task": "Examine the use of the correct chemicals",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 52.0,
+    "machine": "A5CU",
+    "lelyTaskNumber": 1344299.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ4OF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEzNDQyOTkueG1sX2VuLVVTIl0sIm5uIjozMjI5NzQsInRzIjoxNzQ5MjkzMzE3NjY4fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace the air supply filter cartridges",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": "9.1138.0904.0,\n9.1138.0895.0"
+  },
+  {
+    "taskOrder": 52.1,
+    "machine": "A4CU",
+    "lelyTaskNumber": 1370995.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0001370995",
+    "task": "Replace the air supply filter cartridges",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": "9.1138.0904.0,\n9.1138.0895.0"
+  },
+  {
+    "taskOrder": 52.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 90240.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#90240",
+    "task": "Replace the air supply filter cartridges",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": "5.9000.1314.0"
+  },
+  {
+    "taskOrder": 53.0,
+    "machine": "A5CU",
+    "lelyTaskNumber": 1335696.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzOTUxOF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEzMzU2OTYueG1sX2VuLVVTIl0sIm5uIjoxMzg2MywidHMiOjE3NDkyOTQ4OTE2NDZ9?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace the membrane cartridge of the basic pumps",
+    "option": NaN,
+    "services": [
+      "C"
+    ],
+    "info": "9.1189.0104.6"
+  },
+  {
+    "taskOrder": 53.1,
+    "machine": "A4CU",
+    "lelyTaskNumber": 883754.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000883754",
+    "task": "Replace the membrane cartridge of the basic pumps",
+    "option": NaN,
+    "services": [
+      "C"
+    ],
+    "info": "9.1189.0104.7"
+  },
+  {
+    "taskOrder": 54.0,
+    "machine": "A4CU",
+    "lelyTaskNumber": 414824.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDA0MTU2OV9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDA0MTU2OV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDA0MTYxMF9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDA0MTU4NV9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE0XzAwMDA0MTQ4MjQueG1sX2VuLVVTIl0sIm5uIjo1Njg2NSwidHMiOjE3NDk1ODg1MDM5NDJ9?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OCJdLCJubiI6NjI1LCJ0cyI6MTc0OTU4ODUwMzk0Mn0",
+    "task": "Replace the membrane cartridge of the LSP",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": "9.1189.0104.6"
+  },
+  {
+    "taskOrder": 55.0,
+    "machine": "A3RU",
+    "lelyTaskNumber": 26902.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#26902",
+    "task": "Replace the tubes of the Alkaline and Acid pump",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": "5.9000.1322.0"
+  },
+  {
+    "taskOrder": 55.1,
+    "machine": "A3RU",
+    "lelyTaskNumber": 26900.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#26900",
+    "task": "Replace the tube of the brush-dis pump",
+    "option": NaN,
+    "services": [
+      "B",
+      "C",
+      "D"
+    ],
+    "info": "9.1185.0108.0"
+  },
+  {
+    "taskOrder": 56.0,
+    "machine": "A5CU",
+    "lelyTaskNumber": 1357223.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzNF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEzNTcyMjMueG1sX2VuLVVTIl0sIm5uIjo0NDQ1MjIsInRzIjoxNzQ5MjkzNDU3MzkxfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the cleaning system of the vacuum pump",
+    "option": NaN,
+    "services": [
+      "CD"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 56.1,
+    "machine": "A4CU",
+    "lelyTaskNumber": 899772.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000899772",
+    "task": "Examine the cleaning system of the vacuum pump",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 57.0,
+    "machine": "A4CU,A5CU",
+    "lelyTaskNumber": 899771.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000899771",
+    "task": "Clean the vacuum pump",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 57.1,
+    "machine": "A3RU",
+    "lelyTaskNumber": 90029.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#90029",
+    "task": "Clean the vacuum pump",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 58.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1355539.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzNF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEzNTU1MzkueG1sX2VuLVVTIl0sIm5uIjo0NDg2MDQsInRzIjoxNzQ5Mjk4NTI4NTY4fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Clean the cyclone, vacuum buffer and vacuum pump exhaust",
+    "option": "No",
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 58.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 899774.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000899774",
+    "task": "Clean the cyclone, vacuum buffer and vacuum pump exhaust",
+    "option": "No",
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 58.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 109155.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#109155",
+    "task": "Clean the cyclone, vacuum buffer and vacuum pump exhaust",
+    "option": "No",
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 59.0,
+    "machine": "A5CU",
+    "lelyTaskNumber": 403963.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzNF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MDM5NjMueG1sX2VuLVVTIl0sIm5uIjo0NjE4MzgsInRzIjoxNzQ5Mjk4NjcxNDkxfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace the non-return valve in the vacuum apply tube",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "5.1003.0373.0"
+  },
+  {
+    "taskOrder": 59.1,
+    "machine": "A4CU",
+    "lelyTaskNumber": 899773.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000899773",
+    "task": "Replace the non-return valve in the vacuum apply tube",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "5.1003.0373.1"
+  },
+  {
+    "taskOrder": 60.0,
+    "machine": "A5CU",
+    "lelyTaskNumber": 1355057.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzNF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEzNTUwNTcueG1sX2VuLVVTIl0sIm5uIjo0NTIzNzIsInRzIjoxNzQ5Mjk4NDQ1ODM2fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Change the oil of the vacuum pump gearbox",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "9.1171.0110.0 "
+  },
+  {
+    "taskOrder": 60.2,
+    "machine": "A3CU",
+    "lelyTaskNumber": 90220.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#90220",
+    "task": "Change the oil of the vacuum pump gearbox",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "9.1171.0110.1"
+  },
+  {
+    "taskOrder": 60.1,
+    "machine": "A4CU",
+    "lelyTaskNumber": 899770.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000899770",
+    "task": "Change the oil of the vacuum pump gearbox",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "9.1171.0110.1"
+  },
+  {
+    "taskOrder": 61.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 1344290.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A5&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0001344290",
+    "task": "Complete the vacuum capacity measurement and recommendation report",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 61.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 1370821.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0001370821",
+    "task": "Complete the vacuum capacity measurement and recommendation report",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 61.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 107207.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#107207",
+    "task": "Complete the vacuum capacity measurement and recommendation report",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 62.0,
+    "machine": "A3RU",
+    "lelyTaskNumber": 90572.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#90572",
+    "task": "Replace Silencers",
+    "option": NaN,
+    "services": [
+      "C"
+    ],
+    "info": "9.1138.0195.3"
+  },
+  {
+    "taskOrder": 63.0,
+    "machine": "A3RU,A4RU,A5RU",
+    "lelyTaskNumber": NaN,
+    "guide": NaN,
+    "task": "Examine the M4USE",
+    "option": "M4USE",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 63.1,
+    "machine": "A4RU,A5RU",
+    "lelyTaskNumber": 1087787.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMF9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ4MF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDEwODc3ODcueG1sX2VuLVVTIl0sIm5uIjoyODA3OTIsInRzIjoxNzQ5Mjk5MzAwNTIwfQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace O-rings and plunger seals of the M4USE",
+    "option": "M4USE",
+    "services": [
+      "D"
+    ],
+    "info": "5.1004.3227.0,\n9.1043.0322.0,\n9.1189.0074.4,\n9.1189.0075.5"
+  },
+  {
+    "taskOrder": 64.0,
+    "machine": "A3RU",
+    "lelyTaskNumber": NaN,
+    "guide": NaN,
+    "task": "Examine the parts in the machine room",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 65.0,
+    "machine": "A4CU,A5CU",
+    "lelyTaskNumber": NaN,
+    "guide": NaN,
+    "task": "Examine the airbuffer for water",
+    "option": "Airbuffer",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 66.0,
+    "machine": "A5CU",
+    "lelyTaskNumber": 404178.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ2Nl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzODA4N19MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MDQxNzgueG1sX2VuLVVTIl0sIm5uIjo3NjgxNiwidHMiOjE3NDkyOTM3Mjc5OTZ9?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace the sediment/chlorine filter",
+    "option": "Pura",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": "5.9000.1311.0"
+  },
+  {
+    "taskOrder": 66.1,
+    "machine": "A4CU",
+    "lelyTaskNumber": 890641.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000890641",
+    "task": "Replace the sediment/chlorine filter",
+    "option": "Pura",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": "5.9000.1311.1"
+  },
+  {
+    "taskOrder": 66.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 19726.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#19726",
+    "task": "DEMI replace sediment/chlorine filter",
+    "option": "Pura",
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "5.9000.1311.0"
+  },
+  {
+    "taskOrder": 66.3,
+    "machine": "A5CU",
+    "lelyTaskNumber": 404188.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ2Nl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzODA4N19MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MDQxODgueG1sX2VuLVVTIl0sIm5uIjo3NzEzMCwidHMiOjE3NDkyOTg3MDU2Mzd9?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Replace membrane filter",
+    "option": "Pura",
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "9.1185.0261.6"
+  },
+  {
+    "taskOrder": 66.4,
+    "machine": "A4CU",
+    "lelyTaskNumber": 890640.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000890640",
+    "task": "Replace membrane filter",
+    "option": "Pura",
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "9.1185.0261.7"
+  },
+  {
+    "taskOrder": 66.5,
+    "machine": "A3RU",
+    "lelyTaskNumber": 19727.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#19727",
+    "task": "DEMI replace membrane filter",
+    "option": "Pura",
+    "services": [
+      "D"
+    ],
+    "info": "9.1185.0261.6"
+  },
+  {
+    "taskOrder": 66.6,
+    "machine": "A3RU",
+    "lelyTaskNumber": 19733.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#19733",
+    "task": "DEMI examine pressure tank 0,3 bar",
+    "option": "Pura",
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 67.0,
+    "machine": "A4CU,A5CU",
+    "lelyTaskNumber": NaN,
+    "guide": NaN,
+    "task": "Replace CRS M3 5μ filter",
+    "option": NaN,
+    "services": [
+      "C"
+    ],
+    "info": "9.1138.0895.0 "
+  },
+  {
+    "taskOrder": 68.0,
+    "machine": "A4CU,A5CU",
+    "lelyTaskNumber": 1198113.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ2Ml9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA4ODUzMjgueG1sX2VuLVVTIl0sIm5uIjo1NDYwMCwidHMiOjE3NDkyOTM3OTA1NTN9?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0OTI5Mzc5MDU1M30",
+    "task": "Examine the CRS M3 pressure switch",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 69.0,
+    "machine": "A4CU,A5CU",
+    "lelyTaskNumber": NaN,
+    "guide": NaN,
+    "task": "Examine the capacity of the battery (CRS)",
+    "option": NaN,
+    "services": [
+      "B"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 69.1,
+    "machine": "A3RU",
+    "lelyTaskNumber": 48177.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#48177",
+    "task": "Examine the Capacity of the Baterries (Brown out)",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 70.0,
+    "machine": "A4CU,A5CU",
+    "lelyTaskNumber": 420108.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000420108",
+    "task": "Replace the non-return valve and seal of the single milk filter",
+    "option": "Single Filter",
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "5.9000.1320.0"
+  },
+  {
+    "taskOrder": 70.1,
+    "machine": "A3RU",
+    "lelyTaskNumber": 40724.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#40724",
+    "task": "Replace the non-return valve and seal of the single milk filter",
+    "option": "Single Filter",
+    "services": [
+      "D"
+    ],
+    "info": "5.9000.1320.0"
+  },
+  {
+    "taskOrder": 70.2,
+    "machine": "A4CU,A5CU",
+    "lelyTaskNumber": 420109.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000420109",
+    "task": "Replace the non-return valve in the milkline (one per milk line)",
+    "option": "Twinfilter",
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "5.1003.0373.0"
+  },
+  {
+    "taskOrder": 70.3,
+    "machine": "A3RU",
+    "lelyTaskNumber": 40730.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#40730",
+    "task": "Replace the non-return valve in the milkline (one per milk line)",
+    "option": "Twinfilter",
+    "services": [
+      "D"
+    ],
+    "info": "5.1003.0373.0"
+  },
+  {
+    "taskOrder": 71.0,
+    "machine": "A4CU,A5CU",
+    "lelyTaskNumber": 420110.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000420110",
+    "task": "Replace wearparts twinfilter",
+    "option": "Twinfilter",
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "5.1004.6544.0,\n5.1004.6546.0,\n5.1004.6545.0"
+  },
+  {
+    "taskOrder": 71.1,
+    "machine": "A3RU",
+    "lelyTaskNumber": 90709.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#90709",
+    "task": "Replace wearparts twinfilter",
+    "option": "Twinfilter",
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": "5.1004.6544.0,\n5.1004.6546.0,\n5.1004.6545.0"
+  },
+  {
+    "taskOrder": 72.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 417136.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyNV9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MTcxMzYueG1sX2VuLVVTIl0sIm5uIjoyNjkxMywidHMiOjE3NDkyOTQ2MTg4OTV9?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the main cleaning",
+    "option": NaN,
+    "services": [
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 72.1,
+    "machine": "A4RU\n",
+    "lelyTaskNumber": 885240.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000885240",
+    "task": "Examine the main cleaning",
+    "option": NaN,
+    "services": [
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 72.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 40735.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#40735",
+    "task": "Examine the main cleaning",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 73.0,
+    "machine": "A5RU",
+    "lelyTaskNumber": 504033.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEzMF9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA1MDQwMzMueG1sX2VuLVVTIl0sIm5uIjoyNzUwNTYsInRzIjoxNzQ5MjkzODk2Mzk1fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine the milking proces (2-3 times)",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 73.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 90332.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#90332",
+    "task": "Examine the milking proces (2-3 times)",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 73.1,
+    "machine": "A4RU",
+    "lelyTaskNumber": 407202.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000407202",
+    "task": "Examine the milking proces (2-3 times)",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 74.0,
+    "machine": "A3RU",
+    "lelyTaskNumber": 99171.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#99171",
+    "task": "Test spray beam of teat disinfection nozzle",
+    "option": NaN,
+    "services": [
+      "A"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 75.0,
+    "machine": "A3RU",
+    "lelyTaskNumber": 40743.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#40743",
+    "task": "Do the air compressor maintenance",
+    "option": "Air Compressor",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 75.1,
+    "machine": "A4CU,A5CU",
+    "lelyTaskNumber": NaN,
+    "guide": NaN,
+    "task": "Do the air compressor maintenance",
+    "option": "Air Compressor",
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 76.0,
+    "machine": "A3RU,A4CU,A5CU",
+    "lelyTaskNumber": 407333.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000407333",
+    "task": "Examine the contents of the toolbox",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 77.0,
+    "machine": "A3RU",
+    "lelyTaskNumber": 41111.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#41111",
+    "task": "Confirm the availabilty of TDS lens cleaner",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 78.0,
+    "machine": "A5CU",
+    "lelyTaskNumber": 404106.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/V=2/media/Element.Media%253A%253AVj0xfnsicklkIjoiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwib3AiOlsiSVNfMDAwMDAwMDEwNl9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzMzEyOV9MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ3M19MZWx5cStJbmR1c3RyaWVzIiwiSVNfMDAwMDAzNTQ3Nl9MZWx5cStJbmR1c3RyaWVzIiwiQ09MLU1MLUE1XzAwMDA0MDQxMDYueG1sX2VuLVVTIl0sIm5uIjoyNDk0MDcsInRzIjoxNzQ5MjkzODQyNzQ5fQ?filterId=Product%253A%253AVj0xfnsicklkIjoiMDAwMDAzNTU4MCIsIm9wIjpbIjAwMDAwMzU1ODAiLCIwMDAwMDM1NTgxIiwiMDAwMDAzNTU5OSJdLCJubiI6NjcwLCJ0cyI6MTc0ODg3ODc2ODgxMn0",
+    "task": "Examine 3-way valves at tank, twin filter, buffer vessel, and other places",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 78.1,
+    "machine": "A4CU",
+    "lelyTaskNumber": 883566.0,
+    "guide": "https://manuals.lelyonline.com/ACD/delivery/index.jsp#/navigate?&model=Lely%20Astronaut%20A4&type=PART_OR_MEDIA_NUMBER_FULL_TEXT&keyword=0000883566",
+    "task": "Examine 3-way valves at tank, twin filter, buffer vessel, and other places",
+    "option": NaN,
+    "services": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 78.2,
+    "machine": "A3RU",
+    "lelyTaskNumber": 13878.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#13878",
+    "task": "Examine 3-way valves at tank (and twin filter)",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": NaN
+  },
+  {
+    "taskOrder": 79.0,
+    "machine": "A3RU",
+    "lelyTaskNumber": 20824.0,
+    "guide": "https://technical-documents-prv-emanual-prd.azurewebsites.net/Lely%20Astronaut%20A3%20Service%20Manual/index.htm#20824",
+    "task": "Do the watertest",
+    "option": NaN,
+    "services": [
+      "C",
+      "D"
+    ],
+    "info": NaN
+  }
+]

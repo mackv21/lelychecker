@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Maintenance Checklist"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp" />
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="2"
+            android:rowCount="3"
+            android:layout_marginBottom="16dp">
+
+            <CheckBox
+                android:id="@+id/checkBoxPump"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:text="Check Pump"
+                android:textColor="@color/white"
+                android:buttonTint="@color/white"
+                android:padding="8dp"
+                android:layout_margin="4dp" />
+
+            <CheckBox
+                android:id="@+id/checkBoxFilters"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:text="Inspect Filters"
+                android:textColor="@color/white"
+                android:buttonTint="@color/white"
+                android:padding="8dp"
+                android:layout_margin="4dp" />
+
+            <CheckBox
+                android:id="@+id/checkBoxValves"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:text="Test Valves"
+                android:textColor="@color/white"
+                android:buttonTint="@color/white"
+                android:padding="8dp"
+                android:layout_margin="4dp" />
+
+            <CheckBox
+                android:id="@+id/checkBoxMotors"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:text="Inspect Motors"
+                android:textColor="@color/white"
+                android:buttonTint="@color/white"
+                android:padding="8dp"
+                android:layout_margin="4dp" />
+
+            <CheckBox
+                android:id="@+id/checkBoxSensors"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:text="Calibrate Sensors"
+                android:textColor="@color/white"
+                android:buttonTint="@color/white"
+                android:padding="8dp"
+                android:layout_margin="4dp" />
+        </GridLayout>
+
+        <Button
+            android:id="@+id/buttonNext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Next"
+            android:background="@color/red"
+            android:textColor="@color/white"
+            android:padding="12dp" />
+    </LinearLayout>
+</ScrollView>
